@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		407AF5F0241EF05D0048D6A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407AF5EF241EF05D0048D6A0 /* AppDelegate.swift */; };
 		407AF5F2241EF05D0048D6A0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407AF5F1241EF05D0048D6A0 /* SceneDelegate.swift */; };
-		407AF5F4241EF05D0048D6A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407AF5F3241EF05D0048D6A0 /* ViewController.swift */; };
 		407AF5F7241EF05D0048D6A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 407AF5F5241EF05D0048D6A0 /* Main.storyboard */; };
 		407AF5FA241EF05D0048D6A0 /* dylan_v2_memo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 407AF5F8241EF05D0048D6A0 /* dylan_v2_memo.xcdatamodeld */; };
 		407AF5FC241EF05E0048D6A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 407AF5FB241EF05E0048D6A0 /* Assets.xcassets */; };
@@ -20,7 +19,6 @@
 		407AF5EC241EF05D0048D6A0 /* dylan_v2_memo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dylan_v2_memo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		407AF5EF241EF05D0048D6A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		407AF5F1241EF05D0048D6A0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		407AF5F3241EF05D0048D6A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		407AF5F6241EF05D0048D6A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		407AF5F9241EF05D0048D6A0 /* dylan_v2_memo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = dylan_v2_memo.xcdatamodel; sourceTree = "<group>"; };
 		407AF5FB241EF05E0048D6A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 			children = (
 				407AF5EF241EF05D0048D6A0 /* AppDelegate.swift */,
 				407AF5F1241EF05D0048D6A0 /* SceneDelegate.swift */,
-				407AF5F3241EF05D0048D6A0 /* ViewController.swift */,
 				407AF5F5241EF05D0048D6A0 /* Main.storyboard */,
 				407AF5FB241EF05E0048D6A0 /* Assets.xcassets */,
 				407AF5FD241EF05E0048D6A0 /* LaunchScreen.storyboard */,
@@ -141,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				407AF5F4241EF05D0048D6A0 /* ViewController.swift in Sources */,
 				407AF5F0241EF05D0048D6A0 /* AppDelegate.swift in Sources */,
 				407AF5FA241EF05D0048D6A0 /* dylan_v2_memo.xcdatamodeld in Sources */,
 				407AF5F2241EF05D0048D6A0 /* SceneDelegate.swift in Sources */,
