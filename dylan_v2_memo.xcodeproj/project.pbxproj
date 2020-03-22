@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		406F0F24242830E800F14B8D /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406F0F23242830E800F14B8D /* MemoListTableViewController.swift */; };
 		407AF5F0241EF05D0048D6A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407AF5EF241EF05D0048D6A0 /* AppDelegate.swift */; };
 		407AF5F2241EF05D0048D6A0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407AF5F1241EF05D0048D6A0 /* SceneDelegate.swift */; };
 		407AF5F7241EF05D0048D6A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 407AF5F5241EF05D0048D6A0 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		406F0F23242830E800F14B8D /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
 		407AF5EC241EF05D0048D6A0 /* dylan_v2_memo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dylan_v2_memo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		407AF5EF241EF05D0048D6A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		407AF5F1241EF05D0048D6A0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				407AF5FD241EF05E0048D6A0 /* LaunchScreen.storyboard */,
 				407AF600241EF05E0048D6A0 /* Info.plist */,
 				407AF5F8241EF05D0048D6A0 /* dylan_v2_memo.xcdatamodeld */,
+				406F0F23242830E800F14B8D /* MemoListTableViewController.swift */,
 			);
 			path = dylan_v2_memo;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				407AF5F0241EF05D0048D6A0 /* AppDelegate.swift in Sources */,
 				407AF5FA241EF05D0048D6A0 /* dylan_v2_memo.xcdatamodeld in Sources */,
+				406F0F24242830E800F14B8D /* MemoListTableViewController.swift in Sources */,
 				407AF5F2241EF05D0048D6A0 /* SceneDelegate.swift in Sources */,
 				40A865AF2420497E000378FE /* Model.swift in Sources */,
 			);
